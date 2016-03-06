@@ -1,0 +1,47 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/peiyanli/Documents/MasterThesis/" . "Reading/")
+ ("/Users/peiyanli/Documents/" . "MasterThesis/")
+ ("/Users/peiyanli/" . "Documents/")
+ ("/Volumes/webdav/MasterThesis/" . "Literatures/")
+ ("/Volumes/webdav/" . "MasterThesis/")
+ ("/Volumes/" . "webdav/")
+ ("/" . "Volumes/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/peiyanli/Documents/MasterThesis/Reading/"
+ "/Volumes/webdav/MasterThesis/Literatures/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ 
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/peiyanli/Documents/MasterThesis/Reading/" (22235 19683 0 0) "review_notations.tex~" "review_notations.tex" "review_notations.aux" "review.tex~" "review.tex" "review.synctex.gz" "review.pdfsync" "review.pdf" "review.out" "review.log" "review.blg" "review.bbl" "review.aux" "images/" "IEEEtran.bst" "citations.bib~" "citations.bib" "auto/" ".predictive/" "#review.tex#" "../" "./")
+
+ ("/Users/peiyanli/" (22235 15000 0 0) "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".xinitrc.d/" ".Xauthority" ".viminfo" ".Trash/" ".serverauth.424" ".rnd" ".profile" ".macports/" ".local/" ".lesshst" ".ipython/" ".ICEauthority" ".gpg-agent-info" ".gnupg/" ".emacs.d/" ".DS_Store" ".dbus-keyrings/" ".config/" ".CFUserTextEncoding" ".cache/" ".bash_sessions/" ".bash_history" ".aspell.en.pws" ".aspell.en.prepl" "../" "./")
+
+ ("/Users/peiyanli/Documents/MasterThesis/" (22234 59002 0 0) "Reviewing_report.tar.bz2" "Reading/" "Literatures/" "administrative/" ".DS_Store" "../" "./")
+
+ ("/Users/peiyanli/Documents/" (22230 61694 0 0) "Wolfram Mathematica/" "Movies/" "MasterThesis/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Volumes/webdav/MasterThesis/Literatures/" (22221 62310 0 0) "Static_Equivalent_of_Distribution_Grids_With_High_Penetration_of_PV_Systems.pdf" "../" "./")
+
+ ("/Volumes/webdav/MasterThesis/" (22221 62329 0 0) "administrative/" "Reading/" "Literatures/" "../" "./")
+
+ ("/Volumes/webdav/" (22221 62329 0 0) "rahmkuchen.pdf" "mutt_setting.tar.bz2" "meltedchocolatefonda_77527.pdf" "linux/" "linear_system_theory/" "intro-linux.pdf" "ihwjmd07fpd6lq." "[Elias_M._Stein,_Rami_Shakarchi]_Real_analysis__m(BookZZ.org).pdf" "[Dimitri_P._Bertsekas]_Dynamic_programming_and_opt(BookZZ.org).pdf" "Your ticketdirect order number 1718374.pdf" "UT-EXAR Ansökan om examensarbete.pdf" "System_identification/" "SysID_2015_final.pdf" "Questionnaire_2015_12_22.pdf" "Power_electronic_system/" "MatrixCalculus.pdf" "Math/" "MasterThesis/" "Lectures1-2_CDS270.pdf" "Dynamic_Programming/" "Design_of_power_electronics/" "._.DS_Store" ".DS_Store" "../" "./")
+
+ ("/Volumes/" (22222 4727 0 0) "webdav/" "refind 1/" "refind/" "Recovery HD/" "Mac OS/" ".DS_Store" "../" "./")
+
+ ("/Users/" (22148 9790 0 0) "Shared/" "peiyanli/" "Guest/" ".localized" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

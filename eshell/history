@@ -1,0 +1,3 @@
+cd ..
+tar -cvjf Reviewing_report.tar.bz2 Reading/
+ls
